@@ -14,10 +14,10 @@ Created a simple console based chat application. This project shows the working 
     * So here are the commands that ypu need to run make sure that you will requre two terminals to run the file one for Server.java and other for Client.java
         
         Run this below cmd's on first terminal 
-           ** javac Server.java
+           **javac Server.java & 
             java Server**
         Run this below cmd's on second terminal 
-            **javac Client.java
+            **javac Client.java &
             java Client**
 
 
